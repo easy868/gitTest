@@ -11,7 +11,7 @@
     data () {
       return {
         msg: 'Welcome to Your Vue.js App',
-        text:'测试git修改;再次修改'
+        text:'测试git修改;再次修改；修改并且新增一个test文件'
       }
     },
     mounted () {
